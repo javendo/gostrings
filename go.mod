@@ -1,3 +1,3 @@
-module github.com/navarasu/gostrings
+module github.com/javendo/gostrings
 
 go 1.13
